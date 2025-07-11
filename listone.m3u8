@@ -1,46 +1,19 @@
 #EXTM3U url-tvg="https://github.com/marcomarotta/dd/raw/refs/heads/main/epg.xml"
 
+#EXTINF:-1 tvg-id="rai1.it" tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Intrattenimento;Rai Tv",RAI 1 (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/875922788/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport Moto Gp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTO GP (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3036316886/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="canale5.it" tvg-name="Canale 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5 (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1101559666/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport Motogp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTOGP (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2090703806/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="canale5.it" tvg-name="Canale 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5 (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1534161807/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rai3.it" tvg-name="Rai 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Intrattenimento;Rai Tv",RAI 3 (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/869117599/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3007400791/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rai1.it" tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Intrattenimento;Rai Tv",RAI 1 (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/875922788/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="italia1.it" tvg-name="Italia 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Intrattenimento;Mediaset",ITALIA 1 (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/663536394/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rete4.it" tvg-name="Rete 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Mediaset",RETE 4 (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2235732004/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemadrama.it" tvg-name="Sky Cinema Drama" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film;Sky",SKY CINEMA DRAMA (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1235530177/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1144128726/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="Sky Cinema Suspense" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film;Sky",SKY CINEMA SUSPENSE (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1820997555/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="Sky Cinema Romance" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film;Sky",SKY CINEMA ROMANCE (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1281264885/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="canale5.it" tvg-name="Canale 5 (2)" tvg-logo="" group-title="Mediaset",CANALE 5 (V) (2)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1101559666/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/210669162/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1534161807/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="Rai 1 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 1 (V) (2)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1225653759/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -48,11 +21,53 @@ https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=http
 #EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="Mediaset 20" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Intrattenimento;Mediaset",MEDIASET 20 (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3134481201/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemacollectionhd.it" tvg-name="Sky Cinema Collection" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film;Sky",SKY CINEMA COLLECTION (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3525837057/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1144128726/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3448075317/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3007400791/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="italia1.it" tvg-name="Italia 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Intrattenimento;Mediaset",ITALIA 1 (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/663536394/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2775802255/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film;Sky",SKY CINEMA UNO (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1759625738/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="raisport.it" tvg-name="Rai Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Sport;Rai Tv",RAI SPORT (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2924135092/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="Eurosport 1 (2)" tvg-logo="" group-title="Sport",EUROSPORT 1 (V) (2)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3481346857/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="dazn1.it" tvg-name="Dazn 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport",DAZN 1 (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1376440573/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3192996672/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rete4.it" tvg-name="Rete 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Mediaset",RETE 4 (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2235732004/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemacollectionhd.it" tvg-name="Sky Cinema Collection" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film;Sky",SKY CINEMA COLLECTION (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3525837057/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rai3.it" tvg-name="Rai 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Intrattenimento;Rai Tv",RAI 3 (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/869117599/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemadrama.it" tvg-name="Sky Cinema Drama" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film;Sky",SKY CINEMA DRAMA (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1235530177/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="Sky Cinema Suspense" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film;Sky",SKY CINEMA SUSPENSE (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3060043751/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY] (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3445562519/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="rai2.it" tvg-name="Rai 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Intrattenimento;Rai Tv",RAI 2 (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/246253359/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -61,58 +76,46 @@ https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=http
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2290395046/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film;Sky",SKY CINEMA COMEDY (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/500203271/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film;Sky",SKY CINEMA UNO (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1759625738/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA COMEDY (V) (2)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3131104474/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA ACTION (V) (2)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3812796171/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3448075317/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film;Sky",SKY CINEMA FAMILY (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/415795144/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film;Sky",SKY CINEMA DUE (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1228534500/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2317684453/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="mediaset1.it" tvg-name="Mediaset 1" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET 1 (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/633342961/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="raisport.it" tvg-name="Rai Sport [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Sport;Rai Tv",RAI SPORT [LIVE DURING EVENTS ONLY] (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/551730224/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2283887097/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="Sky Cinema Romance" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film;Sky",SKY CINEMA ROMANCE (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1281264885/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="dazn.it" tvg-name="Dazn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1024px-DAZN_logo.svg.png" group-title="Sport",DAZN (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2745635299/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="la2.it" tvg-name="Rsi La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2 (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3590183307/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="la7.it" tvg-name="La 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7 (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2143522071/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORTS F1 (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2289038972/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="Rai Yoyo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Intrattenimento;Rai Tv",RAI YOYO (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1890950169/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3475299702/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="raipremium.it" tvg-name="Rai Premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Intrattenimento;Rai Tv",RAI PREMIUM (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2861734300/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2711959620/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="Sky Sport Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/729945219/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="boing.it" tvg-name="Boing" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3373510242/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="zonadazn.it" tvg-name="Zona Dazn" tvg-logo="https://www.digital-news.it/img/palinsesti/2023/12/1701423631-zona-dazn.webp" group-title="Sport",ZONA DAZN (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2911178456/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno (2)" tvg-logo="" group-title="Sport",SKY SPORT UNO (V) (2)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/210669162/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2100771782/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno (2)" tvg-logo="" group-title="Sport",SKY SPORT UNO (V) (2)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3192996672/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skysport.it" tvg-name="Sky Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/924661659/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis (2)" tvg-logo="" group-title="Sport",SKY SPORT TENNIS (V) (2)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/78546677/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -120,14 +123,11 @@ https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=http
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Sky",CIELO (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3743894403/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY] (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3445562519/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="Sky Cinema Suspense (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA SUSPENSE (V) (2)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3060043751/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="la5.it" tvg-name="La 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro",LA 5 (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1425667375/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="Sky Cinema Comedy (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA COMEDY (V) (2)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/500203271/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="Rai 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Intrattenimento;Rai Tv",RAI 4 (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2179822223/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -141,11 +141,14 @@ https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=http
 #EXTINF:-1 tvg-id="dazn2.it" tvg-name="Dazn 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/882px-DAZN_2.svg.png" group-title="Sport",DAZN 2 (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/363506221/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA ACTION (V) (2)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3812796171/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="nickelodeon.it" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Bambini",NICKELODEON (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3039389215/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="mediaset1.it" tvg-name="Mediaset 1" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET 1 (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/633342961/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="Sky Cinema Suspense (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA SUSPENSE (V) (2)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1820997555/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila10.it" tvg-name="Sky Primafila 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 10 (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2268489342/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -153,14 +156,26 @@ https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=http
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/449990998/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky",SKY UNO (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2130523218/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="Sky Cinema Romance (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA ROMANCE (V) (2)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2890008905/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA FAMILY (V) (2)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3216516117/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film;Sky",SKY CINEMA DUE (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1228534500/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="rai3.it" tvg-name="Rai 3 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 3 (V) (2)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1324733956/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="dmax.it" tvg-name="Dmax" tvg-logo="https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png" group-title="Discovery",DMAX (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3008151733/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2 (2)" tvg-logo="" group-title="Sport",EUROSPORT 2 (V) (2)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2317684453/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="Sky Super Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/558282118/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -168,41 +183,32 @@ https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=http
 #EXTINF:-1 tvg-id="skyprimafila8.it" tvg-name="Sky Primafila 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 8 (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1440779061/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="cine34.it" tvg-name="Cine 34" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset",CINE 34 (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/62558606/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="rete4.it" tvg-name="Rete 4 (2)" tvg-logo="" group-title="Mediaset",RETE 4 (V) (2)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/4198218214/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="dmax.it" tvg-name="Dmax" tvg-logo="https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png" group-title="Discovery",DMAX (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3008151733/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="la2.it" tvg-name="Rsi La 2 (2)" tvg-logo="" group-title="Altro",RSI LA 2 (V) (2)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3590183307/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raisport.it" tvg-name="Rai Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Sport;Rai Tv",RAI SPORT (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2924135092/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="Eurosport 1 (2)" tvg-logo="" group-title="Sport",EUROSPORT 1 (V) (2)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3481346857/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2 (2)" tvg-logo="" group-title="Sport",EUROSPORT 2 (V) (2)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2283887097/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyprimafila7.it" tvg-name="Sky Primafila 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 7 (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3618643172/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="deejaytv.it" tvg-name="Deejay Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Altro",DEEJAY TV (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/963607327/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skyarte.it" tvg-name="Sky Arte" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari;Sky",SKY ARTE (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1806815496/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="Rai 4 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 4 (V) (2)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/4241820180/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="20 Mediaset" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Intrattenimento;Mediaset",20 MEDIASET (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1230338185/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="dazn.it" tvg-name="Dazn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1024px-DAZN_logo.svg.png" group-title="Sport",DAZN (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2745635299/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="topcrime.it" tvg-name="Top Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Discovery",TOP CRIME (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/269503091/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-name="Tgcom 24" tvg-logo="" group-title="Notizie;Mediaset",TGCOM 24 (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2418148449/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="nove.it" tvg-name="Discovery Nove" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari;Discovery",DISCOVERY NOVE (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1574591400/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="topcrime.it" tvg-name="Top Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Discovery",TOP CRIME (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/269503091/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila4.it" tvg-name="Sky Primafila 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 4 (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3137990890/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -213,32 +219,35 @@ https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=http
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Film;Rai Tv",RAI MOVIE (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1925964148/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/4246774056/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skyprimafila2.it" tvg-name="Sky Primafila 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 2 (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/525374356/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila1.it" tvg-name="Sky Primafila 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 1 (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1492183364/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="la7.it" tvg-name="La 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7 (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2143522071/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila5.it" tvg-name="Sky Primafila 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 5 (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2255083866/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skyprimafila3.it" tvg-name="Sky Primafila 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 3 (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/153693434/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="k2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2 (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/11090349/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila3.it" tvg-name="Sky Primafila 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 3 (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/153693434/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORTS F1 (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2289038972/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="Rai Yoyo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Intrattenimento;Rai Tv",RAI YOYO (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1890950169/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="Sky Atlantic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Sky",SKY ATLANTIC (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1482866609/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="la2.it" tvg-name="Rsi La 2 (2)" tvg-logo="" group-title="Altro",RSI LA 2 (V) (2)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3475299702/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="mediasetextra.it" tvg-name="Mediaset Extra" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/mediaset-extra-it.png" group-title="Intrattenimento;Mediaset",MEDIASET EXTRA (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/477466531/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="la5.it" tvg-name="La 5 (2)" tvg-logo="" group-title="Altro",LA 5 (V) (2)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/84139639/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyprimafila8.it" tvg-name="Sky Primafila 8 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 8 (V) (2)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2130255339/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3093535330/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -246,41 +255,20 @@ https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=http
 #EXTINF:-1 tvg-id="skycinemauno+24.it" tvg-name="Sky Cinema Uno +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film;Sky",SKY CINEMA UNO +24 (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1699876530/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="dmax.it" tvg-name="Dmax (2)" tvg-logo="" group-title="Discovery",DMAX (V) (2)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3803638765/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skyprimafila6.it" tvg-name="Sky Primafila 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 6 (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3251217290/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rainews24.it" tvg-name="Rai News 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Notizie;Rai Tv",RAI NEWS 24 (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2272923972/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rainews24.it" tvg-name="Rai News 24 (2)" tvg-logo="" group-title="Notizie;Rai Tv",RAI NEWS 24 (V) (2)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2239645272/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky",SKY UNO (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/322024849/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyserie.it" tvg-name="Sky Serie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film;Sky",SKY SERIE (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/836680112/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila7.it" tvg-name="Sky Primafila 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 7 (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/4238969402/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="Sky Sport Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/729945219/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyarte.it" tvg-name="Sky Arte" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari;Sky",SKY ARTE (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1902695925/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/374675593/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2711959620/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila17.it" tvg-name="Sky Primafila 17" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 17 (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1284441949/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action (backup)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (BACKUP) (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2242741766/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/374675593/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1989309231/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -291,26 +279,35 @@ https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=http
 #EXTINF:-1 tvg-id="rai5.it" tvg-name="Rai 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Intrattenimento;Rai Tv",RAI 5 (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3249873828/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="zonadazn.it" tvg-name="Zona Dazn" tvg-logo="https://www.digital-news.it/img/palinsesti/2023/12/1701423631-zona-dazn.webp" group-title="Sport",ZONA DAZN (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2911178456/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="boing.it" tvg-name="Boing" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3373510242/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="raiscuola.it" tvg-name="Rai Scuola" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-scuola-it.png" group-title="Intrattenimento;Rai Tv",RAI SCUOLA (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2007798511/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1744435623/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="iris.it" tvg-name="Mediaset Iris" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Intrattenimento;Mediaset",MEDIASET IRIS (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/23919988/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="la1.it" tvg-name="Rsi La 1 (2)" tvg-logo="" group-title="Altro",RSI LA 1 (V) (2)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2455610203/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="rai4k.it" tvg-name="Rai 4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1200px-Rai_4K_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI 4K (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2049087681/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="cartoonito.it" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1987220436/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="focustv.it" tvg-name="Focus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Intrattenimento;Mediaset",FOCUS (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3439223610/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari;Discovery",DISCOVERY CHANNEL (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1955739367/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1289777017/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="history.it" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari;Sky",HISTORY (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/317837654/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skysportmax.it" tvg-name="Sky Sport Max" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport",SKY SPORT MAX (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2066326916/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="supertennis.it" tvg-name="Super Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3213195143/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="premiumcrime.it" tvg-name="Premium Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Mediaset",PREMIUM CRIME (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/444768053/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V) (2)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/294457245/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -318,32 +315,29 @@ https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=http
 #EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena (2)" tvg-logo="" group-title="Sport",SKY SPORT ARENA (V) (2)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2555960713/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysport.it" tvg-name="Sky Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/924661659/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="wwechannel.it" tvg-name="Wwe Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Discovery",WWE CHANNEL (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2989824407/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="warnertv.it" tvg-name="Warner Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Warner_TV_Italy.svg/1200px-Warner_TV_Italy.svg.png" group-title="Discovery",WARNER TV (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3171202588/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="nove.it" tvg-name="Discovery Nove (2)" tvg-logo="" group-title="Documentari;Discovery",DISCOVERY NOVE (V) (2)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2651461317/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno (2)" tvg-logo="" group-title="Sky",SKY UNO (V) (2)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2130523218/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="cine34.it" tvg-name="Cine 34" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset",CINE 34 (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/62558606/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="Sky Atlantic (2)" tvg-logo="" group-title="Sky",SKY ATLANTIC (V) (2)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1421393119/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rete4.it" tvg-name="Rete 4 (2)" tvg-logo="" group-title="Mediaset",RETE 4 (V) (2)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/4198218214/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skyprimafila2.it" tvg-name="Sky Primafila 2 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 2 (V) (2)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/877200714/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila7.it" tvg-name="Sky Primafila 7 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 7 (V) (2)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3618643172/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila6.it" tvg-name="Sky Primafila 6 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 6 (V) (2)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3939513684/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyarte.it" tvg-name="Sky Arte (2)" tvg-logo="" group-title="Documentari;Sky",SKY ARTE (V) (2)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1806815496/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="20 Mediaset" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Intrattenimento;Mediaset",20 MEDIASET (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1230338185/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila9.it" tvg-name="Sky Primafila 9 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 9 (V) (2)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1753260677/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -363,8 +357,8 @@ https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=http
 #EXTINF:-1 tvg-id="k2.it" tvg-name="K2 (2)" tvg-logo="" group-title="Bambini",K2 (V) (2)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2255724318/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/4246774056/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="skyprimafila1.it" tvg-name="Sky Primafila 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 1 (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1492183364/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="italia2.it" tvg-name="Italia 2" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Intrattenimento;Mediaset",ITALIA 2 (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1613543898/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -372,14 +366,38 @@ https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=http
 #EXTINF:-1 tvg-id="realtime.it" tvg-name="Real Time" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Intrattenimento;Discovery",REAL TIME (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1574975196/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila8.it" tvg-name="Sky Primafila 8 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 8 (V) (2)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2130255339/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="mediasetextra.it" tvg-name="Mediaset Extra" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/mediaset-extra-it.png" group-title="Intrattenimento;Mediaset",MEDIASET EXTRA (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/477466531/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="la5.it" tvg-name="La 5 (2)" tvg-logo="" group-title="Altro",LA 5 (V) (2)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/84139639/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="dmax.it" tvg-name="Dmax (2)" tvg-logo="" group-title="Discovery",DMAX (V) (2)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3803638765/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rainews24.it" tvg-name="Rai News 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Notizie;Rai Tv",RAI NEWS 24 (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2272923972/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rainews24.it" tvg-name="Rai News 24 (2)" tvg-logo="" group-title="Notizie;Rai Tv",RAI NEWS 24 (V) (2)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2239645272/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno (2)" tvg-logo="" group-title="Sky",SKY UNO (V) (2)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/322024849/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyprimafila7.it" tvg-name="Sky Primafila 7 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 7 (V) (2)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/4238969402/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyarte.it" tvg-name="Sky Arte (2)" tvg-logo="" group-title="Documentari;Sky",SKY ARTE (V) (2)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1902695925/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="27twentyseven.it" tvg-name="27 Twenty Seven" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png" group-title="Mediaset",27 TWENTY SEVEN (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/608774683/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="Discovery Channel (2)" tvg-logo="" group-title="Documentari;Discovery",DISCOVERY CHANNEL (V) (2)
+#EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari;Discovery",DISCOVERY CHANNEL (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3554841914/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="Sky Cinema Action (backup)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film;Sky",SKY CINEMA ACTION (BACKUP) (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2242741766/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie (2)" tvg-logo="" group-title="Film;Rai Tv",RAI MOVIE (V) (2)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2835672487/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -414,14 +432,8 @@ https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=http
 #EXTINF:-1 tvg-id="skyprimafila16.it" tvg-name="Sky Primafila 16" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 16 (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1911500525/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="focustv.it" tvg-name="Focus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Intrattenimento;Mediaset",FOCUS (V)
+#EXTINF:-1 tvg-id="focustv.it" tvg-name="Focus (2)" tvg-logo="" group-title="Intrattenimento;Mediaset",FOCUS (V) (2)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2982550433/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="iris.it" tvg-name="Mediaset Iris" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Intrattenimento;Mediaset",MEDIASET IRIS (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/23919988/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="la1.it" tvg-name="Rsi La 1 (2)" tvg-logo="" group-title="Altro",RSI LA 1 (V) (2)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2455610203/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila1.it" tvg-name="Sky Primafila 1 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 1 (V) (2)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1944682394/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -429,7 +441,10 @@ https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=http
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="Cartoonito (backup)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (BACKUP) (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2178717282/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="supertennis.it" tvg-name="Super Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS (V)
+#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="Cartoon Network (2)" tvg-logo="" group-title="Bambini",CARTOON NETWORK (V) (2)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1744435623/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="supertennis.it" tvg-name="Super Tennis (2)" tvg-logo="" group-title="Sport",SUPER TENNIS (V) (2)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3009377513/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila3.it" tvg-name="Sky Primafila 3 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 3 (V) (2)
@@ -438,29 +453,17 @@ https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=http
 #EXTINF:-1 tvg-id="sportitaliaplus.it" tvg-name="Sportitalia Plus" tvg-logo="https://www.capitaladv.eu/wp-content/uploads/2020/07/LOGO-SPORTITALIA-PLUS-HD_2-1.png" group-title="Sport;Mediaset",SPORTITALIA PLUS (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3342849313/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="Cartoon Network (2)" tvg-logo="" group-title="Bambini",CARTOON NETWORK (V) (2)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1289777017/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="focustv.it" tvg-name="Focus (2)" tvg-logo="" group-title="Intrattenimento;Mediaset",FOCUS (V) (2)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3439223610/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="supertennis.it" tvg-name="Super Tennis (2)" tvg-logo="" group-title="Sport",SUPER TENNIS (V) (2)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3213195143/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="cartoonito.it" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1987220436/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="super!.it" tvg-name="Super!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER! (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3550030443/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportmax.it" tvg-name="Sky Sport Max" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport",SKY SPORT MAX (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2066326916/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="sportitalia.it" tvg-name="Sport Italia" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport;Mediaset",SPORT ITALIA (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2881739927/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="realtime.it" tvg-name="Real Time (2)" tvg-logo="" group-title="Intrattenimento;Discovery",REAL TIME (V) (2)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2251241999/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="premiumcrime.it" tvg-name="Premium Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Mediaset",PREMIUM CRIME (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/444768053/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="sportitalia.it" tvg-name="Sport Italia" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport;Mediaset",SPORT ITALIA (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2881739927/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="boing.it" tvg-name="Boing (2)" tvg-logo="" group-title="Bambini",BOING (V) (2)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3022771961/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -507,6 +510,9 @@ https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=http
 #EXTINF:-1 tvg-id="raiscuola.it" tvg-name="Rai Scuola (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI SCUOLA (V) (2)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1886684667/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="Discovery Channel (2)" tvg-logo="" group-title="Documentari;Discovery",DISCOVERY CHANNEL (V) (2)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1955739367/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="animalplanet.it" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Sky",ANIMAL PLANET (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1908877526/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -519,14 +525,17 @@ https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=http
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-name="Tg Com 24" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="Notizie;Mediaset",TG COM 24 (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1785098768/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba (2)" tvg-logo="" group-title="Sport",SKY SPORT NBA (V) (2)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/326825326/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skynature.it" tvg-name="Sky Nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari;Sky",SKY NATURE (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3810188456/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba (2)" tvg-logo="" group-title="Sport",SKY SPORT NBA (V) (2)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/326825326/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="rai5.it" tvg-name="Rai 5 (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI 5 (V) (2)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3163380543/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="history.it" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari;Sky",HISTORY (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/317837654/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="la7d.it" tvg-name="La 7 D" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7d-it.png" group-title="Altro",LA 7 D (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/881846038/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -537,17 +546,14 @@ https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=http
 #EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Discovery",FOOD NETWORK (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2820683351/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila12.it" tvg-name="Sky Primafila 12" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 12 (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2221901869/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="sportitaliasolocalcio.it" tvg-name="Sportitalia Solocalcio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport;Mediaset",SPORTITALIA SOLOCALCIO (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2198410339/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skyprimafila12.it" tvg-name="Sky Primafila 12" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 12 (V)
+https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2221901869/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="frisbee.it" tvg-name="Frisbee" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/frisbee-it.png" group-title="Bambini",FRISBEE (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1995860185/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="dazn1.it" tvg-name="Dazn 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport",DAZN 1 (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/1376440573/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila15.it" tvg-name="Sky Primafila 15" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 15 (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/911168573/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -557,9 +563,6 @@ https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=http
 
 #EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="Food Network (2)" tvg-logo="" group-title="Discovery",FOOD NETWORK (V) (2)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2767861049/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="wwechannel.it" tvg-name="Wwe Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Discovery",WWE CHANNEL (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2989824407/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="Sport Italia (backup)" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport;Mediaset",SPORT ITALIA (BACKUP) (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3165086929/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -629,9 +632,6 @@ https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=http
 
 #EXTINF:-1 tvg-id="mediasetinfinity+2.it" tvg-name="Mediaset Infinity+ 2" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET INFINITY+ 2 (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2436070507/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="warnertv.it" tvg-name="Warner Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Warner_TV_Italy.svg/1200px-Warner_TV_Italy.svg.png" group-title="Discovery",WARNER TV (V)
-https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/3171202588/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="catfish.it" tvg-name="Catfish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Catfish%2C_the_TV_Show_Logo.PNG" group-title="Altro",CATFISH (V)
 https://mfp.macchetiello.uk/proxy/hls/manifest.m3u8?api_password=Marco123&d=https://vavoo.to/play/2381583828/index.m3u8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -1746,720 +1746,6 @@ https://mfp2.macchetiello.uk/proxy/mpd/manifest.m3u8?api_password=Marco123&d=htt
 https://mfp2.macchetiello.uk/proxy/mpd/manifest.m3u8?api_password=Marco123&d=https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_H1/Live/channel%28skysportmotogp%29/master_2hr-aac.mpd%3F%26ck%3DMTExOGE3YmE3NDZhZTExNGNlZTcxMDQwMjQ3ZmMyNmI6ZDY3ZTNhNTc1YWZlODFhYjA0NzMzODkwNTM3ZThhYjk%3D%26headers%3DeyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0LyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lm5vd3R2Lml0In0&key_id=1118a7ba746ae114cee71040247fc26b&key=d67e3a575afe81ab04733890537e8ab9
 
 # Playlist generata da SkyStreaming
-#EXTINF:-1 tvg-id="World - Club Friendly - Novi Pazar vs Spartak Subotica" tvg-name="11:00 World - Club Friendly : Novi Pazar vs Spartak Subotica - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 2 Serbia
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-430.php
-
-#EXTINF:-1 tvg-id="World - Club Friendly - Hartberg vs Crvena Zvezda" tvg-name="16:00 World - Club Friendly : Hartberg vs Crvena Zvezda - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 3 Premium Serbia
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-139.php
-
-#EXTINF:-1 tvg-id="World - Club Friendly - Radomlje vs Železničar Pančevo" tvg-name="17:30 World - Club Friendly : Radomlje vs Železničar Pančevo - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 2 Serbia
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-430.php
-
-#EXTINF:-1 tvg-id="Africa Women Cup of Nations - Tunisia vs Algeria" tvg-name="18:00 Africa Women Cup of Nations : Tunisia vs Algeria - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS USA
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-425.php
-
-#EXTINF:-1 tvg-id="Africa Women Cup of Nations - Tunisia vs Algeria" tvg-name="18:00 Africa Women Cup of Nations : Tunisia vs Algeria - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS en Español
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-372.php
-
-#EXTINF:-1 tvg-id="Africa Women Cup of Nations - Tunisia vs Algeria" tvg-name="18:00 Africa Women Cup of Nations : Tunisia vs Algeria - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV6 Portugal
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-291.php
-
-#EXTINF:-1 tvg-id="Africa Women Cup of Nations - Tunisia vs Algeria" tvg-name="18:00 Africa Women Cup of Nations : Tunisia vs Algeria - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport PSL
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-413.php
-
-#EXTINF:-1 tvg-id="Africa Women Cup of Nations - Tunisia vs Algeria" tvg-name="18:00 Africa Women Cup of Nations : Tunisia vs Algeria - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 3
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-93.php
-
-#EXTINF:-1 tvg-id="Africa Women Cup of Nations - Tunisia vs Algeria" tvg-name="18:00 Africa Women Cup of Nations : Tunisia vs Algeria - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 1 Malaysia
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-712.php
-
-#EXTINF:-1 tvg-id="Africa Women Cup of Nations - Tunisia vs Algeria" tvg-name="18:00 Africa Women Cup of Nations : Tunisia vs Algeria - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 5 Stars Israel
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-147.php
-
-#EXTINF:-1 tvg-id="UEFA Europa League - AEK Larnaca vs Partizan" tvg-name="18:30 UEFA Europa League : AEK Larnaca vs Partizan - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cytavision Sports 1 Cyprus
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-911.php
-
-#EXTINF:-1 tvg-id="UEFA Europa League - AEK Larnaca vs Partizan" tvg-name="18:30 UEFA Europa League : AEK Larnaca vs Partizan - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTS 1 Serbia
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-1.php
-
-#EXTINF:-1 tvg-id="UEFA Europa League - AEK Larnaca vs Partizan" tvg-name="18:30 UEFA Europa League : AEK Larnaca vs Partizan - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 3 Premium Serbia
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-139.php
-
-#EXTINF:-1 tvg-id="UEFA Europa League - AEK Larnaca vs Partizan" tvg-name="18:30 UEFA Europa League : AEK Larnaca vs Partizan - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Slovakia HD
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-22.php
-
-#EXTINF:-1 tvg-id="World - Club Friendly - St. Pölten vs Beşiktaş" tvg-name="19:00 World - Club Friendly : St. Pölten vs Beşiktaş - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", HT Spor
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-76.php
-
-#EXTINF:-1 tvg-id="UEFA Europa League - Paksi SE vs CFR Cluj" tvg-name="19:00 UEFA Europa League : Paksi SE vs CFR Cluj - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", M4 Sports Hungary
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-265.php
-
-#EXTINF:-1 tvg-id="UEFA Europa League - Paksi SE vs CFR Cluj" tvg-name="19:00 UEFA Europa League : Paksi SE vs CFR Cluj - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 1 Romania
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-400.php
-
-#EXTINF:-1 tvg-id="UEFA Europa League - Paksi SE vs CFR Cluj" tvg-name="19:00 UEFA Europa League : Paksi SE vs CFR Cluj - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 1 Romania
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-583.php
-
-#EXTINF:-1 tvg-id="UEFA Europa League - Levski Sofia vs Hapoel Be'er Sheva" tvg-name="19:30 UEFA Europa League : Levski Sofia vs Hapoel Be'er Sheva - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport Bulgaria
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-465.php
-
-#EXTINF:-1 tvg-id="UEFA Europa League - Levski Sofia vs Hapoel Be'er Sheva" tvg-name="19:30 UEFA Europa League : Levski Sofia vs Hapoel Be'er Sheva - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 1 Israel
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-140.php
-
-#EXTINF:-1 tvg-id="UEFA Europa League - Spartak Trnava vs Häcken" tvg-name="20:15 UEFA Europa League : Spartak Trnava vs Häcken - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTVS Sport Slovakia HD
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-3.php
-
-#EXTINF:-1 tvg-id="UEFA Conference League - Malisheva vs Víkingur Reykjavík" tvg-name="20:15 UEFA Conference League : Malisheva vs Víkingur Reykjavík - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SÝN Sport 5 Iceland
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-2.php
-
-#EXTINF:-1 tvg-id="UEFA Conference League - Željezničar vs Koper" tvg-name="20:30 UEFA Conference League : Željezničar vs Koper - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ŠTV 1 Slovenia
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-23.php
-
-#EXTINF:-1 tvg-id="UEFA Conference League - Željezničar vs Koper" tvg-name="20:30 UEFA Conference League : Željezničar vs Koper - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 3 Serbia
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-431.php
-
-#EXTINF:-1 tvg-id="UEFA Conference League - Vardar vs La Fiorita" tvg-name="20:30 UEFA Conference League : Vardar vs La Fiorita - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MRT2 Macedonia
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-4.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", BBC One UK
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-356.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", FOX Network USA
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-54.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Optus Sport
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-24.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", FOXNY USA
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-768.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTE 2 Ireland
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-365.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SRF zwei
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-262.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", YLE TV2 Finland
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-5.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TSN3
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-113.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", NPO 1 NL
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-26.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ORF Sport Plus
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-27.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ZDF Info
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-28.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TRT Spor Turkey
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-889.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ZDF DE
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-727.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN1 DE
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-426.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-49.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TFX France
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-6.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RSI La 2 IT
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-7.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ČT Sport Czech
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-1033.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN 2 Mexico
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-926.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Kunskapskanalen Sweden
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-29.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", NRK 3 Norway
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-8.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ERT 2 Greece
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-9.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV3+ HD Denmark
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-819.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN3 Argentina
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-798.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Football
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-56.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 2
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-92.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 2
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-90.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Finland vs Switzerland" tvg-name="21:00 UEFA Women's Euro : Finland vs Switzerland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 4 Israel
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-143.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Iceland" tvg-name="21:00 UEFA Women's Euro : Norway vs Iceland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports 1 USA
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-39.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Iceland" tvg-name="21:00 UEFA Women's Euro : Norway vs Iceland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Optus Sport
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-25.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Iceland" tvg-name="21:00 UEFA Women's Euro : Norway vs Iceland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RUV Iceland
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-10.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Iceland" tvg-name="21:00 UEFA Women's Euro : Norway vs Iceland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", NRK1 Norway
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-11.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Iceland" tvg-name="21:00 UEFA Women's Euro : Norway vs Iceland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TSN2
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-112.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Iceland" tvg-name="21:00 UEFA Women's Euro : Norway vs Iceland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RAI Sport 1 IT
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-882.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Iceland" tvg-name="21:00 UEFA Women's Euro : Norway vs Iceland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV2 Portugal
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-74.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Iceland" tvg-name="21:00 UEFA Women's Euro : Norway vs Iceland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", NPO 3 NL
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-30.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Iceland" tvg-name="21:00 UEFA Women's Euro : Norway vs Iceland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Teledeporte Spain (TDP)
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-529.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Iceland" tvg-name="21:00 UEFA Women's Euro : Norway vs Iceland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN2 DE
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-427.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Iceland" tvg-name="21:00 UEFA Women's Euro : Norway vs Iceland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SRF Info
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-12.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Iceland" tvg-name="21:00 UEFA Women's Euro : Norway vs Iceland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TMC France
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-955.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Iceland" tvg-name="21:00 UEFA Women's Euro : Norway vs Iceland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ETV 2 Estonia
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-13.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Iceland" tvg-name="21:00 UEFA Women's Euro : Norway vs Iceland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", M4 Sports Hungary
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-265.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Iceland" tvg-name="21:00 UEFA Women's Euro : Norway vs Iceland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Tipik Belgium
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-14.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Iceland" tvg-name="21:00 UEFA Women's Euro : Norway vs Iceland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 1TV Georgia
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-15.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Iceland" tvg-name="21:00 UEFA Women's Euro : Norway vs Iceland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTS 2 Serbia
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-16.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Iceland" tvg-name="21:00 UEFA Women's Euro : Norway vs Iceland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ERT 3 Greece
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-17.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Iceland" tvg-name="21:00 UEFA Women's Euro : Norway vs Iceland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV3 Sport Denmark
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-809.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Iceland" tvg-name="21:00 UEFA Women's Euro : Norway vs Iceland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SVT 24 Sweden
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-18.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Iceland" tvg-name="21:00 UEFA Women's Euro : Norway vs Iceland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", HRT 2 Croatia
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-55.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Iceland" tvg-name="21:00 UEFA Women's Euro : Norway vs Iceland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", BNT 3
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-478.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Iceland" tvg-name="21:00 UEFA Women's Euro : Norway vs Iceland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Laliga
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-415.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Iceland" tvg-name="21:00 UEFA Women's Euro : Norway vs Iceland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 1
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-91.php
-
-#EXTINF:-1 tvg-id="UEFA Women's Euro - Norway vs Iceland" tvg-name="21:00 UEFA Women's Euro : Norway vs Iceland - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 3 Israel
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-142.php
-
-#EXTINF:-1 tvg-id="UEFA Europa League - Legia Warszawa vs Aktobe" tvg-name="21:00 UEFA Europa League : Legia Warszawa vs Aktobe - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TVP Sport Poland
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-128.php
-
-#EXTINF:-1 tvg-id="UEFA Europa League - Legia Warszawa vs Aktobe" tvg-name="21:00 UEFA Europa League : Legia Warszawa vs Aktobe - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Slovakia HD
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-22.php
-
-#EXTINF:-1 tvg-id="UEFA Conference League - Borac Banja Luka vs FC Santa Coloma" tvg-name="21:00 UEFA Conference League : Borac Banja Luka vs FC Santa Coloma - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 2 Serbia
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-430.php
-
-#EXTINF:-1 tvg-id="UEFA Conference League - Larne vs Auda" tvg-name="21:00 UEFA Conference League : Larne vs Auda - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV4 Latvia
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-59.php
-
-#EXTINF:-1 tvg-id="Africa Women Cup of Nations - Botswana vs Nigeria" tvg-name="21:00 Africa Women Cup of Nations : Botswana vs Nigeria - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS USA
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-425.php
-
-#EXTINF:-1 tvg-id="Africa Women Cup of Nations - Botswana vs Nigeria" tvg-name="21:00 Africa Women Cup of Nations : Botswana vs Nigeria - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS en Español
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-372.php
-
-#EXTINF:-1 tvg-id="Africa Women Cup of Nations - Botswana vs Nigeria" tvg-name="21:00 Africa Women Cup of Nations : Botswana vs Nigeria - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport PSL
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-413.php
-
-#EXTINF:-1 tvg-id="Africa Women Cup of Nations - Botswana vs Nigeria" tvg-name="21:00 Africa Women Cup of Nations : Botswana vs Nigeria - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport MaXimo 1
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-572.php
-
-#EXTINF:-1 tvg-id="Africa Women Cup of Nations - Botswana vs Nigeria" tvg-name="21:00 Africa Women Cup of Nations : Botswana vs Nigeria - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 3
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-93.php
-
-#EXTINF:-1 tvg-id="Africa Women Cup of Nations - Botswana vs Nigeria" tvg-name="21:00 Africa Women Cup of Nations : Botswana vs Nigeria - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 1 Malaysia
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-712.php
-
-#EXTINF:-1 tvg-id="Africa Women Cup of Nations - Botswana vs Nigeria" tvg-name="21:00 Africa Women Cup of Nations : Botswana vs Nigeria - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 Stars Israel
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-147.php
-
-#EXTINF:-1 tvg-id="UEFA Conference League - Valur vs Flora" tvg-name="22:00 UEFA Conference League : Valur vs Flora - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SÝN Sport 1 Iceland
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-1.php
-
-#EXTINF:-1 tvg-id="Brazilian Under-20 - Flamengo vs Botafogo" tvg-name="22:30 Brazilian Under-20 : Flamengo vs Botafogo - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SporTV Brazil
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-78.php
-
-#EXTINF:-1 tvg-id="Ecuador - Serie B - Chacaritas vs Atlético Vinotinto" tvg-name="22:30 Ecuador - Serie B : Chacaritas vs Atlético Vinotinto - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal del Futbol
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-68.php
-
-#EXTINF:-1 tvg-id="Ecuador - Serie B - Nueve de Octubre vs Vargas Torres" tvg-name="02:00 Ecuador - Serie B : Nueve de Octubre vs Vargas Torres - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal del Futbol
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-68.php
-
-#EXTINF:-1 tvg-id="Brazil - Serie B - CRB vs Coritiba" tvg-name="02:35 Brazil - Serie B : CRB vs Coritiba - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Brazil
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-81.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Sabalenka A. vs Anisimova A." tvg-name="14:00 WTA - WIMBLEDON : Sabalenka A. vs Anisimova A. - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 11
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-1511.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Sabalenka A. vs Anisimova A." tvg-name="14:00 WTA - WIMBLEDON : Sabalenka A. vs Anisimova A. - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 31
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-1531.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Bencic B. vs Swiatek I." tvg-name="14:30 WTA - WIMBLEDON : Bencic B. vs Swiatek I. - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 11
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-1511.php
-
-#EXTINF:-1 tvg-id="WTA - WIMBLEDON - Bencic B. vs Swiatek I." tvg-name="14:30 WTA - WIMBLEDON : Bencic B. vs Swiatek I. - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Wimbledon", Tennis Stream 31
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-1531.php
-
-#EXTINF:-1 tvg-id="ATP DOUBLES - WIMBLEDON - Arevalo M./Pavic M. vs Hijikata R./Pel D." tvg-name="14:00 ATP DOUBLES - WIMBLEDON : Arevalo M./Pavic M. vs Hijikata R./Pel D. - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp Doubles - Wimbledon", Tennis Stream 1
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
-
-#EXTINF:-1 tvg-id="ATP DOUBLES - WIMBLEDON - Arevalo M./Pavic M. vs Hijikata R./Pel D." tvg-name="14:00 ATP DOUBLES - WIMBLEDON : Arevalo M./Pavic M. vs Hijikata R./Pel D. - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp Doubles - Wimbledon", Tennis Stream 21
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-1521.php
-
-#EXTINF:-1 tvg-id="ATP DOUBLES - WIMBLEDON - Granollers M./Zeballos H. vs Cash J./Glasspool L." tvg-name="15:30 ATP DOUBLES - WIMBLEDON : Granollers M./Zeballos H. vs Cash J./Glasspool L. - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp Doubles - Wimbledon", Tennis Stream 1
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
-
-#EXTINF:-1 tvg-id="ATP DOUBLES - WIMBLEDON - Granollers M./Zeballos H. vs Cash J./Glasspool L." tvg-name="15:30 ATP DOUBLES - WIMBLEDON : Granollers M./Zeballos H. vs Cash J./Glasspool L. - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp Doubles - Wimbledon", Tennis Stream 21
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-1521.php
-
-#EXTINF:-1 tvg-id="WTA DOUBLES - WIMBLEDON - Verbeek S./Siniakova K. vs Salisbury J./Stefani L." tvg-name="17:30 WTA DOUBLES - WIMBLEDON : Verbeek S./Siniakova K. vs Salisbury J./Stefani L. - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Wimbledon", Tennis Stream 11
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-1511.php
-
-#EXTINF:-1 tvg-id="WTA DOUBLES - WIMBLEDON - Verbeek S./Siniakova K. vs Salisbury J./Stefani L." tvg-name="17:30 WTA DOUBLES - WIMBLEDON : Verbeek S./Siniakova K. vs Salisbury J./Stefani L. - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Wimbledon", Tennis Stream 31
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-1531.php
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - CNo. 2 Court" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : CNo. 2 Court - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Boys & Girls - Wimbledon", Tennis Stream 2
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - No. 3 Court" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : No. 3 Court - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Boys & Girls - Wimbledon", Tennis Stream 3
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-1503.php
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 4" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 4 - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Boys & Girls - Wimbledon", Tennis Stream 4
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-1504.php
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 4" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 4 - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Boys & Girls - Wimbledon", Tennis Stream 4
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-1504.php
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 4" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 4 - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Boys & Girls - Wimbledon", Tennis Stream 4
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-1504.php
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 5" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 5 - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Boys & Girls - Wimbledon", Tennis Stream 5
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-1505.php
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 6" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 6 - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Boys & Girls - Wimbledon", Tennis Stream 6
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-1506.php
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 7" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 7 - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Boys & Girls - Wimbledon", Tennis Stream 7
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-1507.php
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 8" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 8 - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Boys & Girls - Wimbledon", Tennis Stream 8
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-1508.php
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 11" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 11 - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Boys & Girls - Wimbledon", Tennis Stream 13
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-1513.php
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 12" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 12 - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Boys & Girls - Wimbledon", Tennis Stream 12
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-1512.php
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 14" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 14 - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Boys & Girls - Wimbledon", Tennis Stream 14
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-1514.php
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 15" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 15 - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Boys & Girls - Wimbledon", Tennis Stream 15
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-1515.php
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 17" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 17 - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Boys & Girls - Wimbledon", Tennis Stream 17
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-1517.php
-
-#EXTINF:-1 tvg-id="BOYS & GIRLS - WIMBLEDON - Court 18" tvg-name="12:00 BOYS & GIRLS - WIMBLEDON : Court 18 - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Boys & Girls - Wimbledon", Tennis Stream 18
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-1518.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", BBC Two UK
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-357.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-40.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN USA
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-44.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 USA
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-45.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN1
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-111.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN3
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-113.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN5
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-115.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", RDS CA
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-839.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-46.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-701.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 3 Poland
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-129.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-393.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-396.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 4 Cyprus
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-914.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Tennis Italy
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-576.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-915.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 6 Cyprus
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-916.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Nova Sports Prime Greece
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-638.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Nova Sports 6 Greece
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-636.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 2 Spain
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-438.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 3 Spain
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-526.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 4 Spain
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-527.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TRT Spor Turkey
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-889.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SRF Zwei
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-262.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Argentina
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-150.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Brazil
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-82.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-101.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 1 France
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-116.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MAX 5 France
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-495.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MAX 6 France
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-496.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MAX 7 France
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-497.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports MAX 8 France
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-498.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Poland
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-57.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Spain
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-524.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 France
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-772.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 1 SE
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-231.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Italy
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-878.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 France
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-772.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Greece
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-41.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Poland
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-58.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Spain
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-525.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-773.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-232.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Italy
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-879.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-773.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Greece
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-42.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-232.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Canal+ Sport 5 Afrique
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-490.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Israel
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-144.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 6 Arabic
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-96.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 7 Arabic
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-97.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS 9 Arabic
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-99.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Plus Israel
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-145.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Live Israel
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-146.php
-
-#EXTINF:-1 tvg-id="2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship" tvg-name="10:00 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport 5 Star Israel
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-147.php
-
-#EXTINF:-1 tvg-id="Supercars - Townsville 500" tvg-name="01:30 Supercars: Townsville 500 - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport 1 NZ
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-588.php
-
-#EXTINF:-1 tvg-id="SPEEDWAY 2.Ekstraliga - Rzeszow vs Tarnow - SPEEDWAY 2.Ekstraliga - Rzeszow vs Tarnow" tvg-name="19:00 SPEEDWAY 2.Ekstraliga - Rzeszow vs Tarnow - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ Sport 5 Poland
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-75.php
-
-#EXTINF:-1 tvg-id="TNA iMPACT! - TNA iMPACT!" tvg-name="02:00 TNA iMPACT! - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", AXS TV USA
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-742.php
-
-#EXTINF:-1 tvg-id="TNA iMPACT! - TNA iMPACT!" tvg-name="02:00 TNA iMPACT! - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", Sportsnet 360
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-409.php
-
-#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs Los Angeles Sparks" tvg-name="21:00 WNBA : Minnesota Lynx vs Los Angeles Sparks - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", WNBA League Pass
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-69.php
-
-#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs Los Angeles Sparks" tvg-name="21:00 WNBA : Minnesota Lynx vs Los Angeles Sparks - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Spectrum Sportsnet USA
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-982.php
-
-#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs Los Angeles Sparks" tvg-name="21:00 WNBA : Minnesota Lynx vs Los Angeles Sparks - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", FanDuel Sports Network North
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-898.php
-
-#EXTINF:-1 tvg-id="Brazil LBF Women - Sao Jose Dos Campos vs Basquete Ourinhos" tvg-name="00:30 Brazil LBF Women : Sao Jose Dos Campos vs Basquete Ourinhos - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN2 Brazil
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-82.php
-
-#EXTINF:-1 tvg-id="CEBL Basketball - Vancouver Bandits vs Niagara River Lions" tvg-name="01:00 CEBL Basketball : Vancouver Bandits vs Niagara River Lions - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", NLSE USA
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-9.php
-
-#EXTINF:-1 tvg-id="WNBA - Washington Mystics W vs Las Vegas Aces W" tvg-name="01:30 WNBA : Washington Mystics W vs Las Vegas Aces W - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", WNBA League Pass
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-55.php
-
-#EXTINF:-1 tvg-id="WNBA - Washington Mystics W vs Las Vegas Aces W" tvg-name="01:30 WNBA : Washington Mystics W vs Las Vegas Aces W - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Monumental Sports Network
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-778.php
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Minnesota Timberwolves vs New Orleans Pelicans" tvg-name="21:00 NBA Las Vegas Summer League : Minnesota Timberwolves vs New Orleans Pelicans - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN2 USA
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-45.php
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Minnesota Timberwolves vs New Orleans Pelicans" tvg-name="21:00 NBA Las Vegas Summer League : Minnesota Timberwolves vs New Orleans Pelicans - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Spectrum SportsNet USA
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-982.php
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Indiana Pacers vs Cleveland Cavaliers" tvg-name="23:00 NBA Las Vegas Summer League : Indiana Pacers vs Cleveland Cavaliers - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", NBA TV USA
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-404.php
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Indiana Pacers vs Cleveland Cavaliers" tvg-name="23:00 NBA Las Vegas Summer League : Indiana Pacers vs Cleveland Cavaliers - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", beIN Sports 5 Max France
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-495.php
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Indiana Pacers vs Cleveland Cavaliers" tvg-name="23:00 NBA Las Vegas Summer League : Indiana Pacers vs Cleveland Cavaliers - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Live Israel
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-146.php
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Brooklyn Nets vs Oklahoma City Thunder" tvg-name="23:30 NBA Las Vegas Summer League : Brooklyn Nets vs Oklahoma City Thunder - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN2 USA
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-45.php
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Brooklyn Nets vs Oklahoma City Thunder" tvg-name="23:30 NBA Las Vegas Summer League : Brooklyn Nets vs Oklahoma City Thunder - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Israel
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-144.php
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Sacramento Kings vs Orlando Magic" tvg-name="01:30 NBA Las Vegas Summer League : Sacramento Kings vs Orlando Magic - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", NBA TV USA
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-404.php
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Sacramento Kings vs Orlando Magic" tvg-name="01:30 NBA Las Vegas Summer League : Sacramento Kings vs Orlando Magic - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", beIN Sports 5 Max France
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-495.php
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Sacramento Kings vs Orlando Magic" tvg-name="01:30 NBA Las Vegas Summer League : Sacramento Kings vs Orlando Magic - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Israel
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-144.php
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Dallas Mavericks vs Los Angeles Lakers" tvg-name="02:00 NBA Las Vegas Summer League : Dallas Mavericks vs Los Angeles Lakers - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN USA
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-44.php
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Dallas Mavericks vs Los Angeles Lakers" tvg-name="02:00 NBA Las Vegas Summer League : Dallas Mavericks vs Los Angeles Lakers - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN Deportes
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-375.php
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Dallas Mavericks vs Los Angeles Lakers" tvg-name="02:00 NBA Las Vegas Summer League : Dallas Mavericks vs Los Angeles Lakers - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TSN3
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-113.php
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Dallas Mavericks vs Los Angeles Lakers" tvg-name="02:00 NBA Las Vegas Summer League : Dallas Mavericks vs Los Angeles Lakers - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TSN5
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-115.php
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Dallas Mavericks vs Los Angeles Lakers" tvg-name="02:00 NBA Las Vegas Summer League : Dallas Mavericks vs Los Angeles Lakers - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN4 Brazil
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-85.php
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Milwaukee Bucks vs Denver Nuggets" tvg-name="03:30 NBA Las Vegas Summer League : Milwaukee Bucks vs Denver Nuggets - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", NBA TV USA
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-404.php
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Milwaukee Bucks vs Denver Nuggets" tvg-name="03:30 NBA Las Vegas Summer League : Milwaukee Bucks vs Denver Nuggets - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Altitude Sports
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-923.php
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Milwaukee Bucks vs Denver Nuggets" tvg-name="03:30 NBA Las Vegas Summer League : Milwaukee Bucks vs Denver Nuggets - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", FanDuel Sports Network Wisconsin
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-907.php
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Milwaukee Bucks vs Denver Nuggets" tvg-name="03:30 NBA Las Vegas Summer League : Milwaukee Bucks vs Denver Nuggets - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", beIN Sports 5 Max France
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-495.php
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Milwaukee Bucks vs Denver Nuggets" tvg-name="03:30 NBA Las Vegas Summer League : Milwaukee Bucks vs Denver Nuggets - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Israel
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-144.php
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Philadelphia 76ers vs San Antonio Spurs" tvg-name="04:00 NBA Las Vegas Summer League : Philadelphia 76ers vs San Antonio Spurs - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", NBC Sports Philadelphia
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-777.php
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Philadelphia 76ers vs San Antonio Spurs" tvg-name="04:00 NBA Las Vegas Summer League : Philadelphia 76ers vs San Antonio Spurs - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN USA
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-44.php
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Philadelphia 76ers vs San Antonio Spurs" tvg-name="04:00 NBA Las Vegas Summer League : Philadelphia 76ers vs San Antonio Spurs - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", TSN3
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-113.php
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Philadelphia 76ers vs San Antonio Spurs" tvg-name="04:00 NBA Las Vegas Summer League : Philadelphia 76ers vs San Antonio Spurs - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN Deportes
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-375.php
-
-#EXTINF:-1 tvg-id="NBA Las Vegas Summer League - Philadelphia 76ers vs San Antonio Spurs" tvg-name="04:00 NBA Las Vegas Summer League : Philadelphia 76ers vs San Antonio Spurs - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", ESPN2 Argentina
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-150.php
-
-#EXTINF:-1 tvg-id="National Rugby League Women - Wests Tigers W vs Canterbury-Bankstown Bulldogs W" tvg-name="11:45 National Rugby League Women : Wests Tigers W vs Canterbury-Bankstown Bulldogs W - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", Sky Sports Action UK
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-37.php
-
-#EXTINF:-1 tvg-id="Super League Rugby - Hull FC vs Wakefield Trinity" tvg-name="21:00 Super League Rugby : Hull FC vs Wakefield Trinity - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", Fox Soccer Plus
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-756.php
-
-#EXTINF:-1 tvg-id="Super League Rugby - Hull FC vs Wakefield Trinity" tvg-name="21:00 Super League Rugby : Hull FC vs Wakefield Trinity - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", Sky Sports Action UK
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-37.php
-
-#EXTINF:-1 tvg-id="Nations League Women - France vs. Brazil" tvg-name="08:30 Nations League Women : France vs. Brazil - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 1 Poland
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-47.php
-
-#EXTINF:-1 tvg-id="Nations League Women - France vs. Brazil" tvg-name="08:30 Nations League Women : France vs. Brazil - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Arena Premium 2 Serbia
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-135.php
-
-#EXTINF:-1 tvg-id="Nations League Women - France vs. Brazil" tvg-name="08:30 Nations League Women : France vs. Brazil - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Max Sport 2 Bulgaria
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-473.php
-
-#EXTINF:-1 tvg-id="Nations League Women - France vs. Brazil" tvg-name="08:30 Nations League Women : France vs. Brazil - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", SporTV2 Brazil
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-79.php
-
-#EXTINF:-1 tvg-id="Nations League Women - France vs. Brazil" tvg-name="08:30 Nations League Women : France vs. Brazil - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sportklub 3 Croatia
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
-
-#EXTINF:-1 tvg-id="Nations League Women - Republic of Korea vs. Japan" tvg-name="12:20 Nations League Women : Republic of Korea vs. Japan - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 2 Poland
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-50.php
-
-#EXTINF:-1 tvg-id="Nations League Women - Republic of Korea vs. Japan" tvg-name="12:20 Nations League Women : Republic of Korea vs. Japan - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", RTVS Sport Slovakia HD
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-3.php
-
-#EXTINF:-1 tvg-id="Nations League Women - Republic of Korea vs. Japan" tvg-name="12:20 Nations League Women : Republic of Korea vs. Japan - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Arena Sport 1 Serbia
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-429.php
-
-#EXTINF:-1 tvg-id="Nations League Women - Republic of Korea vs. Japan" tvg-name="12:20 Nations League Women : Republic of Korea vs. Japan - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sportklub 3 Croatia
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
-
-#EXTINF:-1 tvg-id="Nations League Women - Italy vs. Serbia" tvg-name="17:00 Nations League Women : Italy vs. Serbia - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 2 Poland
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-50.php
-
-#EXTINF:-1 tvg-id="Nations League Women - Italy vs. Serbia" tvg-name="17:00 Nations League Women : Italy vs. Serbia - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Max Sport 1 Bulgaria
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-472.php
-
-#EXTINF:-1 tvg-id="Nations League Women - Italy vs. Serbia" tvg-name="17:00 Nations League Women : Italy vs. Serbia - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", RTVS Sport Slovakia HD
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-3.php
-
-#EXTINF:-1 tvg-id="Nations League Women - Italy vs. Serbia" tvg-name="17:00 Nations League Women : Italy vs. Serbia - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Arena Sport 1 Serbia
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-429.php
-
-#EXTINF:-1 tvg-id="Nations League Women - Italy vs. Serbia" tvg-name="17:00 Nations League Women : Italy vs. Serbia - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", SporTV2 Brazil
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-79.php
-
-#EXTINF:-1 tvg-id="Nations League Women - Italy vs. Serbia" tvg-name="17:00 Nations League Women : Italy vs. Serbia - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sportklub 3 Croatia
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
-
-#EXTINF:-1 tvg-id="Nations League Women - Belgium vs. Netherlands" tvg-name="20:30 Nations League Women : Belgium vs. Netherlands - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 1 Poland
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-47.php
-
-#EXTINF:-1 tvg-id="Nations League Women - Belgium vs. Netherlands" tvg-name="20:30 Nations League Women : Belgium vs. Netherlands - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", SporTV2 Brazil
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-79.php
-
-#EXTINF:-1 tvg-id="Nations League Women - Belgium vs. Netherlands" tvg-name="20:30 Nations League Women : Belgium vs. Netherlands - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sportklub 3 Croatia
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
-
-#EXTINF:-1 tvg-id="Nations League Women - Thailand vs. Germany" tvg-name="23:00 Nations League Women : Thailand vs. Germany - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 1 Poland
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-47.php
-
-#EXTINF:-1 tvg-id="Nations League Women - Thailand vs. Germany" tvg-name="23:00 Nations League Women : Thailand vs. Germany - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", SporTV2 Brazil
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-79.php
-
-#EXTINF:-1 tvg-id="Nations League Women - Thailand vs. Germany" tvg-name="23:00 Nations League Women : Thailand vs. Germany - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sportklub 3 Croatia
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
-
-#EXTINF:-1 tvg-id="Nations League Women - Dominican Republic vs. USA" tvg-name="02:30 Nations League Women : Dominican Republic vs. USA - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", CBS Sports Network USA
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-308.php
-
-#EXTINF:-1 tvg-id="Nations League Women - Dominican Republic vs. USA" tvg-name="02:30 Nations League Women : Dominican Republic vs. USA - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 1 Poland
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-47.php
-
-#EXTINF:-1 tvg-id="Nations League Women - Dominican Republic vs. USA" tvg-name="02:30 Nations League Women : Dominican Republic vs. USA - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", SporTV2 Brazil
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-79.php
-
-#EXTINF:-1 tvg-id="Nations League Women - Dominican Republic vs. USA" tvg-name="02:30 Nations League Women : Dominican Republic vs. USA - 10/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sportklub 3 Croatia
-https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
-
 #EXTINF:-1 tvg-id="Ireland Republic - First Division - Bray Wanderers vs Dundalk" tvg-name="20:45 Ireland Republic - First Division : Bray Wanderers vs Dundalk - 11/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LOITV
 https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-86.php
 
