@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="2025 Summer Shootout at Charlotte Motor Speedway - 2025 Summer Shootout at Charlotte Motor Speedway" tvg-name="23:00 2025 Summer Shootout at Charlotte Motor Speedway - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-55.php
+
+#EXTINF:-1 tvg-id="Millbridge Sprints Speedway - Millbridge Sprints Speedway" tvg-name="00:00 Millbridge Sprints Speedway - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-59.php
+
+#EXTINF:-1 tvg-id="WR Revolver Remix, Episode 29 - WR Revolver Remix, Episode 29" tvg-name="02:00 WR Revolver Remix, Episode 29 - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-68.php
+
 #EXTINF:-1 tvg-id="Korea Republic - K League 1 - Pohang Steelers vs Suwon FC" tvg-name="12:30 Korea Republic - K League 1 : Pohang Steelers vs Suwon FC - 22/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Optus Sport
 https://tvproxy.macchetiello.uk/proxy/m3u?url=https://daddylive.dad/stream/stream-1.php
 
